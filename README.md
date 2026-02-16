@@ -4,12 +4,6 @@
 
 -📖 | Estudando Python <br></br>
 
-<div>
-  <a href="https://github.com/IsackLagares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsackLagares&show_icons=true&theme=dracula&include_all_commits=true&count_priate-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsackLagares&layout=compact&langs_count=168&theme=dracula"/>
-</div>
-
 ### Languages and Tools 🔧
 ##
 <div style="display: inline_block">
